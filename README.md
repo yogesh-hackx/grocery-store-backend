@@ -1,6 +1,6 @@
 # Grocery Store Backend
 
-Backend for online Grocery store.
+Backend for online Grocery store Website
 
 ## Setup
 
